@@ -1,7 +1,7 @@
 .cont {
-    border: 1px solid rgba(136, 29, 168, 0.438);
+    border: 1px solid rgba(29, 73, 168, 0.438)
     padding: 10px;
     margin: 10px;
-    background: rgb(211, 24, 195);
+    background: rgb(27, 24, 211);
     border-radius: 10px;
 }

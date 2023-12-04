@@ -1,11 +1,11 @@
 /*define as cores como variáveis*/
 
 :root {
-    --cor-fundo: #721717;
-    --cor-hover: #ffa99a;
+    --cor-fundo: #251772;
+    --cor-hover: #9aa4ff;
     /*cor de fundo das ul*/
     ;
-    --cor-primaria: #a04747;
+    --cor-primaria: #475ca0;
 }
 
 /**/
@@ -57,7 +57,7 @@
 
 .menu ul ul li a {
     display: block;
-    background-color: #BD7DFF;
+    background-color: #7dbaff;
     /*cor de fundo dos submmenus*/
 }
 
